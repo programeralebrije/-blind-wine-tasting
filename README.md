@@ -1,1 +1,1 @@
-# -blind-wine-tasting
+# blind-wine-tasting
